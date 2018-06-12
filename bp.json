@@ -1,0 +1,37 @@
+{
+  "producer_account_name": "germaneostop",
+  "producer_public_key": "EOS83SYvZgxFZxugkzjy1n5cxNr4xYL27wGxDY4yvszDxXWwx9RnW",
+  "org": {
+    "candidate_name": "GermanEOS",
+    "website": "http://www.germaneos.de",
+    "location": {
+      "name": "Bonn",
+      "country": "DE",
+      "latitude": 50.7034931,
+      "longitude": 6.9772171
+    },
+    "social": {
+      "steemit": "germaneos",
+      "twitter": "germaneos",
+      "youtube": "",
+      "facebook": "",
+      "reddit": "",
+      "keybase": "",
+      "telegram": "germaneos"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "name": "Bonn",
+        "country": "DE",
+        "latitude": 50.7034931,
+        "longitude": 6.9772171
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
